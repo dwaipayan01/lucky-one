@@ -1,0 +1,39 @@
+.cart-image img {
+    width: 286px;
+
+}
+
+.cart-image {
+    width: 300px;
+    height: 510px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product-name {
+    font-family: 'Lato';
+    font-size: normal;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+.shoe-info {
+    line-height: 10px;
+    padding: 10px;
+}
+
+.cart-button {
+    width: 100%;
+    background-color: rgba(255, 224, 179, 1);
+    border: none;
+    border-radius: 0 0 8px 8px;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.cart-button:hover {
+    background-color: aqua;
+}
