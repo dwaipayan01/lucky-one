@@ -1,0 +1,12 @@
+.cart {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.cart-datails {
+    background-color: gray;
+}
+
+.cart-datails img {
+    width: 500px;
+}

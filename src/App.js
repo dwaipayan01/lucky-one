@@ -2,7 +2,9 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Header from './components/header/Header';
-import Shop from './components/Shop/Shop';
+import Product from './components/Product/Product';
+
+
 
 function App() {
   const [shoes, SetShoes] = useState([]);
@@ -15,7 +17,7 @@ function App() {
     <div className="App">
       <Header></Header>
       {
-        shoes.map(shoe => <Shop shoe={shoe}></Shop>)
+        shoes.map(shoe => <Product key={shoe.id} shoe={shoe}></Product>)
       }
     </div>
   );

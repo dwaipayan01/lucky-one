@@ -1,10 +1,16 @@
 import React from 'react';
+import "./Shop.css";
 
-const Shop = (props) => {
-    const { name, id, picture, price } = props.shoe;
+const Shop = () => {
+
     return (
-        <div>
-            <h1>name : {name}</h1>
+        <div className='cart'>
+            <div className="cart-datails">
+
+            </div>
+            <div className="cart-section">
+                <h1>This is cart section</h1>
+            </div>
         </div>
     );
 };
