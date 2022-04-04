@@ -30,7 +30,7 @@ const Shop = () => {
     }
     const deleteItem = () => {
         const previousArry = [...cart];
-        previousArry = [];
+        previousArry.splice(0, previousArry.length);
         SetCart(previousArry);
     }
 
