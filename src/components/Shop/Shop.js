@@ -15,10 +15,25 @@ const Shop = () => {
         // console.log(shoe)
         const newCart = [...cart, shoe];
         SetCart(newCart);
-        console.log(newCart);
+
 
 
     }
+    const showRandom = () => {
+        const arry = [...cart];
+        console.log(arry);
+        const random = Math.floor(Math.random() * arry.length) + 1;
+
+        let arr = [arry[random]];
+        SetCart(arr);
+
+    }
+    const deleteItem = () => {
+        const previousArry = [...cart];
+        previousArry = [];
+        SetCart(previousArry);
+    }
+
 
     return (
         <div className='cart'>
@@ -33,8 +48,8 @@ const Shop = () => {
                     cart.map(item => <Show item={item}></Show>)
                 }
 
-                <button className='btn-1'>Choose 1 for me</button>
-                <button className='btn-2'>Choose again</button>
+                <button onClick={showRandom} className='btn-1'>Choose 1 for me</button>
+                <button onClick={deleteItem} className='btn-2'>Choose again</button>
 
 
 
