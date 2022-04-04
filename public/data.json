@@ -3,60 +3,60 @@
         "picture": "https://img.freepik.com/free-vector/color-sport-sneaker_98292-3191.jpg?t=st=1648962338~exp=1648962938~hmac=6d9a9bc5146a4780d70ba459e3f0b390eaf159de576f1c3b4d653a7261644886&w=740",
         "id": "62493610daa98deae5035417",
         "price": 391,
-        "name": "Janice Moses"
+        "name": "Shoe-1"
     },
     {
         "picture": "https://img.freepik.com/free-photo/pair-trainers_144627-3800.jpg?t=st=1648966511~exp=1648967111~hmac=ecf57dd5d86cdf3daaefca51af72bba092d9436b8111e222bc8152864c77dc52&w=740",
         "id": "624936104c102f3d312eb665",
         "price": 388,
-        "name": "Kathy Colon"
+        "name": "Shoe-2"
     },
     {
         "picture": "https://img.freepik.com/free-photo/running-shoes-white-background_10541-635.jpg?w=740",
         "id": "6249361010484281026e14ed",
         "price": 103,
-        "name": "Jackie Gould"
+        "name": "Shoe-3"
     },
     {
         "picture": "https://img.freepik.com/free-photo/running-shoes-white-background_10541-635.jpg?w=740",
         "id": "624936101a66b6fecd1cf79e",
         "price": 143,
-        "name": "Lara Figueroa"
+        "name": "Shoe-4"
     },
     {
         "picture": "https://img.freepik.com/free-photo/brown-leather-shoes_1203-7562.jpg?t=st=1648966511~exp=1648967111~hmac=d0a85c33f73d02f7e73876785d87b397d2be132d60c1e9ef6b677404c8aebb4b&w=740",
         "id": "62493610fce63675136b2bb0",
         "price": 146,
-        "name": "Mendoza Mcleod"
+        "name": "Shoe-5"
     },
     {
         "picture": "https://img.freepik.com/free-photo/sneakers-shoes_1203-8036.jpg?t=st=1648966511~exp=1648967111~hmac=9c7fc440bf4d9efcc4892be821468dc56e42436f8500dd58cb8705b1b48b036e&w=740",
         "id": "62493610cb1153153bb55595",
         "price": 58,
-        "name": "Zamora Santos"
+        "name": "Shoe-6"
     },
     {
         "picture": "https://img.freepik.com/free-photo/unbranded-modern-sporty-shoes-sneakers-white-isolated_120794-337.jpg?w=740",
         "id": "62493610a64f24c21e64320e",
         "price": 267,
-        "name": "Simpson Horne"
+        "name": "Shoe-7"
     },
     {
         "picture": "https://img.freepik.com/free-vector/color-sport-sneaker_98292-3191.jpg?t=st=1648962338~exp=1648962938~hmac=6d9a9bc5146a4780d70ba459e3f0b390eaf159de576f1c3b4d653a7261644886&w=740",
         "id": "62493610a64f24c21e64320e",
         "price": 267,
-        "name": "Simpson Horne"
+        "name": "Shoe-8"
     },
     {
         "picture": "https://img.freepik.com/free-psd/militar-boots-mockup_1310-779.jpg?t=st=1648966511~exp=1648967111~hmac=7b2991ed69da9bfe501387fe0140a812c58f0b46e1590468ebb3a9249a405db3&w=740",
         "id": "62493610a64f24c21e64320e",
         "price": 267,
-        "name": "Simpson Horne"
+        "name": "Shoe-9"
     },
     {
         "picture": "https://img.freepik.com/free-photo/brown-leather-slip-men-s-shoes-fashion_53876-104481.jpg?t=st=1648966511~exp=1648967111~hmac=3b7d692dc1946ad8082f5424ee8ba38760283b5089e014c43b926841a66ca9e8&w=740",
         "id": "62493610a64f24c21e64320e",
         "price": 267,
-        "name": "Simpson Horne"
+        "name": "Shoe-10"
     }
 ]
