@@ -37,3 +37,7 @@
 .cart-button:hover {
     background-color: aqua;
 }
+
+.icon {
+    margin-left: 5px;
+}

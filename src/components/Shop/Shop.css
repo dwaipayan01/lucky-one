@@ -14,18 +14,21 @@
     width: 100px;
     border-radius: 10px;
     margin-left: 20px;
-    background-color: lightskyblue;
+    background-color:
+        rgba(255, 48, 48, 1);
 }
 
 .btn-2 {
     width: 100px;
     border-radius: 10px;
     margin-left: 20px;
-    background-color: lightskyblue;
+    background-color:
+        rgba(255, 48, 48, 1);
     padding: 5px;
     margin-top: 10px;
 
 }
+
 
 
 
