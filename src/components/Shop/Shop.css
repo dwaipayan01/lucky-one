@@ -7,4 +7,43 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
+    margin: 100px 50px;
+}
+
+.btn-1 {
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: lightskyblue;
+}
+
+.btn-2 {
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: lightskyblue;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+
+
+@media screen and (max-width:1200px) {
+    .cart-details {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width:480px) {
+    .cart-details {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width:480px) {
+    .cart-section {
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+    }
 }

@@ -1,0 +1,10 @@
+.Show-details img {
+    width: 50px;
+    background-color: gray;
+
+}
+
+.Show-details {
+    display: flex;
+
+}
